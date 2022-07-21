@@ -1,0 +1,28 @@
+transcript on
+if {[file exists rtl_work]} {
+	vdel -lib rtl_work -all
+}
+vlib rtl_work
+vmap work rtl_work
+
+vcom -93 -work work {F:/quartus_files/project/pe_encoder.vhd}
+vcom -93 -work work {F:/quartus_files/project/2x1mux8bit.vhd}
+vcom -93 -work work {F:/quartus_files/project/clk_Reg_16bit.vhd}
+vcom -93 -work work {F:/quartus_files/project/clk_Reg_8bit.vhd}
+vcom -93 -work work {F:/quartus_files/project/clk_Reg_3bit.vhd}
+vcom -93 -work work {F:/quartus_files/project/2x1mux16bit.vhd}
+vcom -93 -work work {F:/quartus_files/project/2x1mux3bit.vhd}
+vcom -93 -work work {F:/quartus_files/project/4x1mux16bit.vhd}
+vcom -93 -work work {F:/quartus_files/project/4x1mux3bit.vhd}
+vcom -93 -work work {F:/quartus_files/project/signextend9to16.vhd}
+vcom -93 -work work {F:/quartus_files/project/signextend6to16.vhd}
+vcom -93 -work work {F:/quartus_files/project/Memory.vhd}
+vcom -93 -work work {F:/quartus_files/project/control.vhd}
+vcom -93 -work work {F:/quartus_files/project/alu.vhd}
+vcom -93 -work work {F:/quartus_files/project/processor.vhd}
+vcom -93 -work work {F:/quartus_files/project/RegisterFile.vhd}
+vcom -93 -work work {F:/quartus_files/project/InstructionReg.vhd}
+vcom -93 -work work {F:/quartus_files/project/shifter1.vhd}
+vcom -93 -work work {F:/quartus_files/project/shifter7.vhd}
+vcom -93 -work work {F:/quartus_files/project/addrincrreg.vhd}
+

@@ -1,0 +1,660 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/RISC_Multicycle_VHDLimplementation/simulation/modelsim
+Ealu
+Z1 w1651498342
+Z2 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 12
+R0
+Z5 8D:/RISC_Multicycle_VHDLimplementation/ALU.vhd
+Z6 FD:/RISC_Multicycle_VHDLimplementation/ALU.vhd
+l0
+L6 1
+VXz];`Vl22f[O8<F1WMbbG3
+!s100 F<@MeQN0Bocem?giW;CEc1
+Z7 OV;C;2020.1;71
+31
+Z8 !s110 1651931103
+!i10b 1
+Z9 !s108 1651931103.000000
+Z10 !s90 -reportprogress|300|-93|-work|work|D:/RISC_Multicycle_VHDLimplementation/ALU.vhd|
+Z11 !s107 D:/RISC_Multicycle_VHDLimplementation/ALU.vhd|
+!i113 1
+Z12 o-93 -work work
+Z13 tExplicit 1 CvgOpt 0
+Aalu_logic
+R2
+R3
+R4
+DEx4 work 3 alu 0 22 Xz];`Vl22f[O8<F1WMbbG3
+!i122 12
+l18
+L17 37
+VQ=3ba?ihCClYUXJ<G[nXF1
+!s100 BnW[6a29EEKYH7SlGIB9=2
+R7
+31
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Econtrol_system
+Z14 w1651930600
+R2
+Z15 DPx4 ieee 9 math_real 0 22 gNk<PdFJ<XNPcfef`f?Z81
+R3
+R4
+!i122 11
+R0
+Z16 8D:/RISC_Multicycle_VHDLimplementation/Control_System.vhd
+Z17 FD:/RISC_Multicycle_VHDLimplementation/Control_System.vhd
+l0
+L6 1
+VnAbC0>cg8RMiA7FVCFATW3
+!s100 zeAeY:ejEG3d6G3>R?><i1
+R7
+31
+R8
+!i10b 1
+R9
+Z18 !s90 -reportprogress|300|-93|-work|work|D:/RISC_Multicycle_VHDLimplementation/Control_System.vhd|
+Z19 !s107 D:/RISC_Multicycle_VHDLimplementation/Control_System.vhd|
+!i113 1
+R12
+R13
+Acontrol_system_logic
+R2
+R15
+R3
+R4
+DEx4 work 14 control_system 0 22 nAbC0>cg8RMiA7FVCFATW3
+!i122 11
+l21
+L16 693
+V`dG4EFlE4[4ih33@jAnFD0
+!s100 031c=9h:>i=>dlGRZMfoC1
+R7
+31
+R8
+!i10b 1
+R9
+R18
+R19
+!i113 1
+R12
+R13
+Eir
+Z20 w1651356142
+R2
+R15
+R3
+R4
+!i122 10
+R0
+Z21 8D:/RISC_Multicycle_VHDLimplementation/IR.vhd
+Z22 FD:/RISC_Multicycle_VHDLimplementation/IR.vhd
+l0
+L6 1
+VhmEhnlHC[g9n5[@3LU5L?2
+!s100 ?bFBPS5zV0;0J68n^n0942
+R7
+31
+R8
+!i10b 1
+R9
+Z23 !s90 -reportprogress|300|-93|-work|work|D:/RISC_Multicycle_VHDLimplementation/IR.vhd|
+Z24 !s107 D:/RISC_Multicycle_VHDLimplementation/IR.vhd|
+!i113 1
+R12
+R13
+Air_logic
+R2
+R15
+R3
+R4
+DEx4 work 2 ir 0 22 hmEhnlHC[g9n5[@3LU5L?2
+!i122 10
+l18
+Z25 L14 15
+V3ePfGPi=JaInW3>VNIcg03
+!s100 e<YIA^<<R`UzN]DNbZYT10
+R7
+31
+R8
+!i10b 1
+R9
+R23
+R24
+!i113 1
+R12
+R13
+Els1
+Z26 w1651930455
+R2
+R3
+R4
+!i122 9
+R0
+Z27 8D:/RISC_Multicycle_VHDLimplementation/LS1.vhd
+Z28 FD:/RISC_Multicycle_VHDLimplementation/LS1.vhd
+l0
+L5 1
+VAna2?j>P=<MUM=azMDKG10
+!s100 oB4jzb9T64<Q^gkcfFAH11
+R7
+31
+R8
+!i10b 1
+R9
+Z29 !s90 -reportprogress|300|-93|-work|work|D:/RISC_Multicycle_VHDLimplementation/LS1.vhd|
+Z30 !s107 D:/RISC_Multicycle_VHDLimplementation/LS1.vhd|
+!i113 1
+R12
+R13
+Als1_logic
+R2
+R3
+R4
+DEx4 work 3 ls1 0 22 Ana2?j>P=<MUM=azMDKG10
+!i122 9
+l12
+Z31 L11 7
+V<<LZY3IU9O1ZSfBgk:?DO1
+!s100 KP`<e^^KG0l`eNKb9_16Q1
+R7
+31
+R8
+!i10b 1
+R9
+R29
+R30
+!i113 1
+R12
+R13
+Els7
+Z32 w1651930474
+R2
+R3
+R4
+!i122 8
+R0
+Z33 8D:/RISC_Multicycle_VHDLimplementation/LS7.vhd
+Z34 FD:/RISC_Multicycle_VHDLimplementation/LS7.vhd
+l0
+L5 1
+V]7Vf8dHH?BzHg0O`>[7IL2
+!s100 3:fTE2lfjlAg=jZMV[WDb1
+R7
+31
+R8
+!i10b 1
+R9
+Z35 !s90 -reportprogress|300|-93|-work|work|D:/RISC_Multicycle_VHDLimplementation/LS7.vhd|
+Z36 !s107 D:/RISC_Multicycle_VHDLimplementation/LS7.vhd|
+!i113 1
+R12
+R13
+Als7_logic
+R2
+R3
+R4
+DEx4 work 3 ls7 0 22 ]7Vf8dHH?BzHg0O`>[7IL2
+!i122 8
+l12
+R31
+Vd66lf23DFz?Cg5B4mjSbg0
+!s100 S?CD6ie7aIF?joIe0TLlJ0
+R7
+31
+R8
+!i10b 1
+R9
+R35
+R36
+!i113 1
+R12
+R13
+Ememory
+Z37 w1651597970
+R2
+R15
+R3
+R4
+!i122 7
+R0
+Z38 8D:/RISC_Multicycle_VHDLimplementation/Memory.vhd
+Z39 FD:/RISC_Multicycle_VHDLimplementation/Memory.vhd
+l0
+L6 1
+VEzKcZmXeaM0dOPAGAN0n<3
+!s100 2U@F@WI8mdWkU<Z>WeF072
+R7
+31
+R8
+!i10b 1
+R9
+Z40 !s90 -reportprogress|300|-93|-work|work|D:/RISC_Multicycle_VHDLimplementation/Memory.vhd|
+Z41 !s107 D:/RISC_Multicycle_VHDLimplementation/Memory.vhd|
+!i113 1
+R12
+R13
+Amemory_logic
+R2
+R15
+R3
+R4
+DEx4 work 6 memory 0 22 EzKcZmXeaM0dOPAGAN0n<3
+!i122 7
+l19
+L14 38
+VKZZEL=9zVQ=WQ7mlZn^lX0
+!s100 GNBOfLUjaW18DI9O4m_FH3
+R7
+31
+R8
+!i10b 1
+R9
+R40
+R41
+!i113 1
+R12
+R13
+Emux2
+Z42 w1651930164
+R3
+R4
+!i122 14
+R0
+Z43 8D:/RISC_Multicycle_VHDLimplementation/2x1mux.vhd
+Z44 FD:/RISC_Multicycle_VHDLimplementation/2x1mux.vhd
+l0
+L4 1
+V]6eVG`mc89PUOn0LALZ][3
+!s100 1TPS1XFIFa[Xe]D1NHbbX2
+R7
+31
+R8
+!i10b 1
+R9
+Z45 !s90 -reportprogress|300|-93|-work|work|D:/RISC_Multicycle_VHDLimplementation/2x1mux.vhd|
+!s107 D:/RISC_Multicycle_VHDLimplementation/2x1mux.vhd|
+!i113 1
+R12
+R13
+Abhv
+R3
+R4
+DEx4 work 4 mux2 0 22 ]6eVG`mc89PUOn0LALZ][3
+!i122 14
+l15
+L14 11
+VaV>VKgSW^QMBfbfRV@8G]1
+!s100 zkMF4QK3F>PgfVb9f?eAO0
+R7
+31
+R8
+!i10b 1
+R9
+R45
+Z46 !s107 D:/RISC_Multicycle_VHDLimplementation/2x1mux.vhd|
+!i113 1
+R12
+R13
+Emux4
+Z47 w1651930165
+R3
+R4
+!i122 13
+R0
+Z48 8D:/RISC_Multicycle_VHDLimplementation/4x1mux.vhd
+Z49 FD:/RISC_Multicycle_VHDLimplementation/4x1mux.vhd
+l0
+L4 1
+VVEaL1]JgU8O8zUiXia0Wo2
+!s100 0z2LRCP?AOSK^>4<Mh>W72
+R7
+31
+R8
+!i10b 1
+R9
+Z50 !s90 -reportprogress|300|-93|-work|work|D:/RISC_Multicycle_VHDLimplementation/4x1mux.vhd|
+Z51 !s107 D:/RISC_Multicycle_VHDLimplementation/4x1mux.vhd|
+!i113 1
+R12
+R13
+Abhv
+R3
+R4
+DEx4 work 4 mux4 0 22 VEaL1]JgU8O8zUiXia0Wo2
+!i122 13
+l15
+R25
+Vh_28`FYL>4KW>NA4nP8zO0
+!s100 GL2EHX1ET9Nii5bd?;NHR1
+R7
+31
+R8
+!i10b 1
+R9
+R50
+R51
+!i113 1
+R12
+R13
+Epe
+Z52 w1651930920
+R3
+R4
+!i122 6
+R0
+Z53 8D:/RISC_Multicycle_VHDLimplementation/PE.vhd
+Z54 FD:/RISC_Multicycle_VHDLimplementation/PE.vhd
+l0
+L7 1
+V3meKJ?KR_1VI[]TODoGEg0
+!s100 zH`PJKLL^>OLaZk@YN0Re0
+R7
+31
+R8
+!i10b 1
+R9
+Z55 !s90 -reportprogress|300|-93|-work|work|D:/RISC_Multicycle_VHDLimplementation/PE.vhd|
+Z56 !s107 D:/RISC_Multicycle_VHDLimplementation/PE.vhd|
+!i113 1
+R12
+R13
+Ape_logic
+R3
+R4
+DEx4 work 2 pe 0 22 3meKJ?KR_1VI[]TODoGEg0
+!i122 6
+l18
+L16 50
+V82:fIZ=o>loD?QHOUMlAL0
+!s100 XYEIoVIAgjoIYIQVD<h=30
+R7
+31
+R8
+!i10b 1
+R9
+R55
+R56
+!i113 1
+R12
+R13
+Eprocessor
+Z57 w1651930924
+R3
+R4
+!i122 0
+R0
+Z58 8D:/RISC_Multicycle_VHDLimplementation/TopLevel.vhd
+Z59 FD:/RISC_Multicycle_VHDLimplementation/TopLevel.vhd
+l0
+L4 1
+VF2ZoNn4fZII9d8La`;M9h0
+!s100 VlTRaE0GFSY1Yi?>:SGn]1
+R7
+31
+Z60 !s110 1651931102
+!i10b 1
+Z61 !s108 1651931102.000000
+Z62 !s90 -reportprogress|300|-93|-work|work|D:/RISC_Multicycle_VHDLimplementation/TopLevel.vhd|
+Z63 !s107 D:/RISC_Multicycle_VHDLimplementation/TopLevel.vhd|
+!i113 1
+R12
+R13
+Aarch
+R3
+R4
+DEx4 work 9 processor 0 22 F2ZoNn4fZII9d8La`;M9h0
+!i122 0
+l157
+L9 227
+V7<IT`1dBVPD2m7_8T_[f30
+!s100 4DQazF5h3l<0DJhKZ==o50
+R7
+31
+R60
+!i10b 1
+R61
+R62
+R63
+!i113 1
+R12
+R13
+Ereg
+Z64 w1651930166
+R2
+R15
+R3
+R4
+!i122 5
+R0
+Z65 8D:/RISC_Multicycle_VHDLimplementation/Reg.vhd
+Z66 FD:/RISC_Multicycle_VHDLimplementation/Reg.vhd
+l0
+L6 1
+VlXOKm:dG7[gCBVzBN7eld2
+!s100 6A`W?UXRzJ[lFiV[`l?MI3
+R7
+31
+R8
+!i10b 1
+R9
+Z67 !s90 -reportprogress|300|-93|-work|work|D:/RISC_Multicycle_VHDLimplementation/Reg.vhd|
+Z68 !s107 D:/RISC_Multicycle_VHDLimplementation/Reg.vhd|
+!i113 1
+R12
+R13
+Areg_logic
+R2
+R15
+R3
+R4
+DEx4 work 3 reg 0 22 lXOKm:dG7[gCBVzBN7eld2
+!i122 5
+l19
+L15 14
+VKBN=ZVj0RMAHAh3Wjo[aG2
+!s100 zc3TWi8mT=?nnJzNn8]i82
+R7
+31
+R8
+!i10b 1
+R9
+R67
+R68
+!i113 1
+R12
+R13
+Erf
+Z69 w1651598356
+R2
+R15
+R3
+R4
+!i122 4
+R0
+Z70 8D:/RISC_Multicycle_VHDLimplementation/RF.vhd
+Z71 FD:/RISC_Multicycle_VHDLimplementation/RF.vhd
+l0
+L6 1
+VlQ`oBi87d4F95YmHkV8Jm0
+!s100 _Mc<RB4RbeLEfZB<?:GC?0
+R7
+31
+R8
+!i10b 1
+R9
+Z72 !s90 -reportprogress|300|-93|-work|work|D:/RISC_Multicycle_VHDLimplementation/RF.vhd|
+Z73 !s107 D:/RISC_Multicycle_VHDLimplementation/RF.vhd|
+!i113 1
+R12
+R13
+Arf_logic
+R2
+R15
+R3
+R4
+DEx4 work 2 rf 0 22 lQ`oBi87d4F95YmHkV8Jm0
+!i122 4
+l20
+L15 43
+VRFH5nkXEEj6DK85]NCgdY2
+!s100 z:o77[<[IR;FJ<6L17LPL0
+R7
+31
+R8
+!i10b 1
+R9
+R72
+R73
+!i113 1
+R12
+R13
+Ese6
+Z74 w1651930641
+R2
+R3
+R4
+!i122 3
+R0
+Z75 8D:/RISC_Multicycle_VHDLimplementation/SE6.vhd
+Z76 FD:/RISC_Multicycle_VHDLimplementation/SE6.vhd
+l0
+L5 1
+VPmceC<;b9UY`]83SoQ[f>0
+!s100 k;D:3EWg_3PZYi`j:B02X0
+R7
+31
+R8
+!i10b 1
+R61
+Z77 !s90 -reportprogress|300|-93|-work|work|D:/RISC_Multicycle_VHDLimplementation/SE6.vhd|
+Z78 !s107 D:/RISC_Multicycle_VHDLimplementation/SE6.vhd|
+!i113 1
+R12
+R13
+Abasic
+R2
+R3
+R4
+DEx4 work 3 se6 0 22 PmceC<;b9UY`]83SoQ[f>0
+!i122 3
+l14
+Z79 L13 11
+Vgjmf65bhnENLRA>?N4`Az0
+!s100 GBTZUQ@nN16:KCNOFiVNg2
+R7
+31
+R8
+!i10b 1
+R61
+R77
+R78
+!i113 1
+R12
+R13
+Ese9
+Z80 w1651930656
+R2
+R3
+R4
+!i122 2
+R0
+Z81 8D:/RISC_Multicycle_VHDLimplementation/SE9.vhd
+Z82 FD:/RISC_Multicycle_VHDLimplementation/SE9.vhd
+l0
+L5 1
+VcfeKgEWI@^RzH4HT9MTLY1
+!s100 ;hgd6UmKeEf=JQUJ4aIQ;1
+R7
+31
+R60
+!i10b 1
+R61
+Z83 !s90 -reportprogress|300|-93|-work|work|D:/RISC_Multicycle_VHDLimplementation/SE9.vhd|
+Z84 !s107 D:/RISC_Multicycle_VHDLimplementation/SE9.vhd|
+!i113 1
+R12
+R13
+Abasic
+R2
+R3
+R4
+DEx4 work 3 se9 0 22 cfeKgEWI@^RzH4HT9MTLY1
+!i122 2
+l14
+R79
+V6U2Ob6Yj_gG3hONC4FSD;2
+!s100 lY30=JH_a_K3CHUS:]B[g2
+R7
+31
+R60
+!i10b 1
+R61
+R83
+R84
+!i113 1
+R12
+R13
+Et5
+Z85 w1651930752
+R2
+R15
+R3
+R4
+!i122 1
+R0
+Z86 8D:/RISC_Multicycle_VHDLimplementation/T5.vhd
+Z87 FD:/RISC_Multicycle_VHDLimplementation/T5.vhd
+l0
+L6 1
+Vc3c@OYTIYGM[ZT`cc9M:i1
+!s100 C1M:8]QJHo0TjVTZUIZO_1
+R7
+31
+R60
+!i10b 1
+R61
+Z88 !s90 -reportprogress|300|-93|-work|work|D:/RISC_Multicycle_VHDLimplementation/T5.vhd|
+Z89 !s107 D:/RISC_Multicycle_VHDLimplementation/T5.vhd|
+!i113 1
+R12
+R13
+At5_logic
+R2
+R15
+R3
+R4
+DEx4 work 2 t5 0 22 c3c@OYTIYGM[ZT`cc9M:i1
+!i122 1
+l18
+L14 16
+Vg]9]7MPM_FKn<hiBd^TL00
+!s100 =gdSBnk2MKddGWBTg>JI53
+R7
+31
+R60
+!i10b 1
+R61
+R88
+R89
+!i113 1
+R12
+R13
